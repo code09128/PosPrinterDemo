@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PosPrinterDemo</string>
+
+    <string name="usb_pre_con">present connected Usb dev:</string>
+    <string name="connect">Connect </string>
+    <string name="discon">disConnect</string>
+    <string name="con_success">Connect success</string>
+    <string name="con_failed">Connect failed</string>
+    <string name="connect_first">please connet the printer first!</string>
+
+</resources>
